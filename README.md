@@ -1,4 +1,4 @@
-# AI Seed Projects
+# AI Projects
 Start with ready code for your next AI experiment. Choose from 400+ code templates, across a wide variety of use cases. All examples follow a consistent program structure for standardisation.
 
 <table>
