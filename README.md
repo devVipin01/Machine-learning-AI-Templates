@@ -1,5 +1,5 @@
 # AI Projects
-Start with ready code for your next AI experiment. Choose from 400+ code templates, across a wide variety of use cases. All examples follow a consistent program structure for standardisation.
+Start with ready code for your next AI experiment. Choose from 45+ code templates, across a wide variety of use cases. All examples follow a consistent program structure for standardisation.
 
 <table>
         <tr>
